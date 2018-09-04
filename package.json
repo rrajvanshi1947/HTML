@@ -1,0 +1,24 @@
+{
+  "name": "html",
+  "version": "1.0.0",
+  "description": "Personal website",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rrajvanshi1947/HTML.git"
+  },
+  "author": "Shubham Rajvanshi, Roopam Rajvanshi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rrajvanshi1947/HTML/issues"
+  },
+  "homepage": "https://github.com/rrajvanshi1947/HTML#readme",
+  "dependencies": {
+    "finalhandler": "^1.1.1",
+    "serve-static": "^1.13.2"
+  }
+}
